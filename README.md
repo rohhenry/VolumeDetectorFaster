@@ -1,4 +1,4 @@
-# UnusualVolumeDetectorFaster
+# VolumeDetectorFaster
 A faster but more scuffed update of SamPom100's UnusualVolumeDetector using Online Variance
 
 Initial runtime is the same as UnusualVolumeDetector
